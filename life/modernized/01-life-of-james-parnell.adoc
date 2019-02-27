@@ -2131,7 +2131,6 @@ James Parnell.
 [.signed-section-context-close]
 Colchester Castle, 16th of 12th month, 1655
 
-
 [.letter-heading]
 An Epistle to Friends.
 
